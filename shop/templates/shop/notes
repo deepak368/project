@@ -1,0 +1,25 @@
+#to manage brand
+#when we give shop/brand we have to get
+#GET=>list all the brands
+#post=> is to create a new brand
+  edit
+shop/brands/edit/1
+get=>fetch that brand
+post=>edit that brand
+
+delete
+shop/brands/delete/1
+post=>delete brand with id
+
+
+==========================================================
+mobiles
+shop/mobiles
+get=>list all mobiles
+post=>create new mobile
+
+
+#shop/mobile/detail/1
+
+#user quthentication
+mobile/userRegistration
